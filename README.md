@@ -8,7 +8,7 @@ Fork of [Slluxx/IconGrabber](https://github.com/Slluxx/IconGrabber), a homebrew 
 - Added basic curl SSL/timeout settings — requests could silently fail depending on the console's clock/cert store.
 - Wrapped JSON parsing in a try/catch so a bad API response doesn't crash the whole app.
 - Small null-check fix for the icon "lock" field.
-
+**SYS-ICON NEEDS TO BE INSTALLED**
 
 ## Building
 
