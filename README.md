@@ -9,7 +9,6 @@ Fork of [Slluxx/IconGrabber](https://github.com/Slluxx/IconGrabber), a homebrew 
 - Wrapped JSON parsing in a try/catch so a bad API response doesn't crash the whole app.
 - Small null-check fix for the icon "lock" field.
 
-Still requires [sys-tweak](https://github.com/masagrator/sys-tweak) (or similar) installed to actually apply the icons.
 
 ## Building
 
